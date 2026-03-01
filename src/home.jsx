@@ -37,7 +37,7 @@ function Home() {
         </div>
         <div className='flex justify-center align-center' >
   
-  <img className="h-70 w-70   lg:h-[400px] lg:w-[400px] object-cover object-center transition-transform duration-700 rounded-full shadow-[0_20px_70px_0_rgba(90,70,70,2)]" src={myphoto} alt="Description of my photo" />
+  <img className="h-70 w-70   lg:h-100 lg:w-100 object-cover object-center transition-transform duration-700 rounded-full shadow-[0_20px_70px_0_rgba(90,70,70,2)]" src={myphoto} alt="Description of my photo" />
         </div>
       </div>
     </>

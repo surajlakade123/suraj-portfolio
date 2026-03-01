@@ -19,7 +19,7 @@ function Feature() {
             <h5 className='text-2xl  font-bold text-blue-500 tracking-tight  m-3  '><FontAwesomeIcon icon={faSquarespace} />Creative Design </h5>
             <p className="text-base lg:text-xl w-[80%]">“Innovative design thinker focused on delivering clean, expressive designs that communicate clear ideas and elevate user interaction. I enjoy solving problems through art and visual storytelling.”</p>
            </div>
-           <div id="card-jump"  className='border-2 border-white border-solid rounded-2xl h-[100%] w-[110%]    bg-white text-black flex justify-center items-center flex-col'>
+           <div id="card-jump"  className='border-2 border-white border-solid rounded-2xl h-full w-[110%]    bg-white text-black flex justify-center items-center flex-col'>
             <h5 className='text-2xl  font-bold text-blue-500 tracking-tight m-3 '><FontAwesomeIcon icon={faLaptopCode} /> Coding & Problem-Solving</h5>
             <p className="text-base lg:text-xl w-[80%]" >“Dedicated coder with strong problem-solving skills — I tackle algorithmic challenges and optimize solutions with clean, efficient code using languages like C, C++, and Python.”</p>
            </div>
